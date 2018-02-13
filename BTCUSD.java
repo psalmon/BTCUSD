@@ -82,7 +82,6 @@ public class BTCUSD {
 		}
 		
 		return pairs;
-
 	}
 	
 	private static Map<Float, Float> GetCex() {
@@ -179,7 +178,5 @@ public class BTCUSD {
 		}
 		
 		return scoreToKey;
-		
 	}
-
 }
